@@ -14,7 +14,7 @@ require "../vendor/autoload.php";
 $config = array(
     "name"=>"糗事百科",
     "db_config"=>array(
-        "host"=>"10.95.118.56",
+        "host"=>"127.0.0.1",
         "user"=>"root",
         "port"=>"3306",
         "password"=>"123456",
