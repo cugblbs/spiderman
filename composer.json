@@ -1,0 +1,18 @@
+{
+  "name": "zhudong/spiderman",
+  "type": "library",
+  "keywords": [
+    "framework",
+    "spiderman"
+  ],
+  "description": "Spiderman: for spider happy.",
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "spiderman\\": "./"
+    }
+  },
+  "minimum-stability": "dev"
+}
